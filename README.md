@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/akshayvarma121/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayvarma121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0869-reordered-power-of-2](https://github.com/akshayvarma121/Leetcode/tree/master/0869-reordered-power-of-2) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshayvarma121/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshayvarma121/Leetcode/tree/master/0050-powx-n) |
+| [0869-reordered-power-of-2](https://github.com/akshayvarma121/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [1492-the-kth-factor-of-n](https://github.com/akshayvarma121/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshayvarma121/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
+| [0869-reordered-power-of-2](https://github.com/akshayvarma121/Leetcode/tree/master/0869-reordered-power-of-2) |
 ## Union-Find
 |  |
 | ------- |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayvarma121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [0869-reordered-power-of-2](https://github.com/akshayvarma121/Leetcode/tree/master/0869-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0869-reordered-power-of-2](https://github.com/akshayvarma121/Leetcode/tree/master/0869-reordered-power-of-2) |
 <!---LeetCode Topics End-->
