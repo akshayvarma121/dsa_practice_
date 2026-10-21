@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayvarma121/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayvarma121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/akshayvarma121/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayvarma121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayvarma121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/akshayvarma121/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayvarma121/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshayvarma121/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshayvarma121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
