@@ -39,16 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshayvarma121/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshayvarma121/Leetcode/tree/master/0050-powx-n) |
 | [1492-the-kth-factor-of-n](https://github.com/akshayvarma121/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshayvarma121/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshayvarma121/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/akshayvarma121/Leetcode/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshayvarma121/Leetcode/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/akshayvarma121/Leetcode/tree/master/0086-partition-list) |
 | [2326-spiral-matrix-iv](https://github.com/akshayvarma121/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
