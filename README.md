@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayvarma121/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/akshayvarma121/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/akshayvarma121/Leetcode/tree/master/0049-group-anagrams) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/akshayvarma121/dsa_practice_/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/akshayvarma121/Leetcode/tree/master/0869-reordered-power-of-2) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/akshayvarma121/dsa_practice_/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
